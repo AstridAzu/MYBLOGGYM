@@ -1,0 +1,27 @@
+.header {
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+    background-color: #f8f9fa4a;
+    padding: 20px;
+    text-align: center;
+    backdrop-filter: blur(10px);
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    display: flex;
+    flex-direction: row;
+    gap : 20px;
+    z-index: 998;
+    align-items: center;
+    justify-content: center;
+}
+.itemHeader {
+    font-size: 24px;
+    font-weight: bold;
+    color: #343a40;
+      text-decoration: none;
+}
+.itemHeader:hover {
+    color: #007bff;
+    cursor: pointer;
+}

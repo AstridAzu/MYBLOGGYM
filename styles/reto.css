@@ -1,0 +1,141 @@
+
+.gradient-bg {
+    position: absolute;
+    inset: 0;
+    background: linear-gradient(to right, #ec4899, #f97316);
+    opacity: 0.9;
+    z-index: 0;
+  }
+  
+  .header-content {
+    position: relative;
+    z-index: 0;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    color: #000;
+  }
+  
+  .card-title {
+    font-size: 1.25rem;
+    margin: 0;
+    color:#fff;
+  }
+  
+  .trophy-icon {
+    background: rgba(255, 255, 255, 0.2);
+    backdrop-filter: blur(4px);
+    padding: 0.5rem;
+    border-radius: 50%;
+    font-size: 1rem;
+  }
+  
+  .card-content {
+    padding: 1.5rem;
+    background: #fff;
+    z-index: 1;
+  }
+  
+  .row {
+    display: flex;
+    justify-content: space-between;
+    margin-bottom: 1.5rem;
+  }
+  
+  .info {
+    display: flex;
+    align-items: center;
+    gap: 0.5rem;
+    font-size: 0.875rem;
+    font-weight: 500;
+  }
+  
+  .icon {
+    padding: 0.5rem;
+    border-radius: 50%;
+    color: white;
+  }
+  
+  .icon.calendar {
+    background: linear-gradient(to bottom right, #ec4899, #f97316);
+  }
+  
+  .icon.users {
+    background: linear-gradient(to bottom right, #f97316, #ec4899);
+  }
+  
+  .progress-info {
+    display: flex;
+    justify-content: space-between;
+    font-size: 0.875rem;
+    margin-bottom: 0.5rem;
+  }
+  
+  .progress-bar {
+    background: #e5e7eb;
+    height: 12px;
+    border-radius: 9999px;
+    overflow: hidden;
+    padding: 2px;
+  }
+  
+  .progress-fill {
+    height: 100%;
+    width: 60%;
+    background: linear-gradient(to right, #ec4899, #f97316);
+    border-radius: 9999px;
+  }
+  
+  .exercise-card {
+    display: flex;
+    flex-direction: column;
+    background: white;
+    border-radius: 1rem;
+    padding: 1rem;
+    margin-top: 1.5rem;
+    box-shadow: 0 2px 4px rgba(0,0,0,0.05);
+  }
+  
+  .exercise-title {
+    background: linear-gradient(to right, #be185d, #ea580c);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    font-weight: 600;
+    margin-bottom: 1rem;
+  }
+  
+  .exercise {
+    background: linear-gradient(to right, #ecfdf5, #d1fae5);
+    padding: 0.5rem;
+    border-radius: 0.5rem;
+    margin-bottom: 0.5rem;
+    font-size: 0.875rem;
+    display: flex;
+    align-items: center;
+    gap: 0.5rem;
+  }
+  
+  .milestone {
+    background: linear-gradient(to right, #f3e8ff, #ffe4e6);
+    padding: 0.75rem;
+    border-radius: 0.5rem;
+    font-size: 0.875rem;
+    margin-top: 1.5rem;
+  }
+  
+  .leader {
+    background: linear-gradient(to right, #fef3c7, #fffbeb);
+    padding: 0.75rem;
+    border-radius: 0.5rem;
+    font-size: 0.875rem;
+    display: flex;
+    justify-content: space-between;
+    margin-top: 1rem;
+  }
+  
+  .leader-name {
+    background: linear-gradient(to right, #d97706, #f59e0b);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    font-weight: bold;
+  }

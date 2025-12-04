@@ -1,0 +1,154 @@
+{
+    "tren_inferior": {
+      "lunes y viernes": [
+        {
+          "nombre": "Sentadillas",
+          "series_repeticiones": "3x4",
+          "variaciones": ["Libre", "Cerrada", "Abierta (sumo)", "En 'V'"],
+          "imagenes": ["assets/fotosRutinas/1.jpg", "assets/fotosRutinas/2.jpg"]
+        },
+        {
+          "nombre": "Peso muerto",
+          "series_repeticiones": "3x6",
+          "variaciones": ["Convencional", "Rumano", "Sumo en V"],
+          "imagenes": ["assets/fotosRutinas/3.jpg"]
+        },
+        {
+          "nombre": "Sentadilla búlgara",
+          "series_repeticiones": "3x4 por pierna",
+          "variaciones": ["Smith con liga", "Libre con mancuerna"],
+          "imagenes": ["assets/fotosRutinas/4.jpg","assets/fotosRutinas/5.jpg","assets/fotosRutinas/6.png"]
+        },
+        {
+          "nombre": "Hip thrust en máquina con liga",
+          "series_repeticiones": "3x5",
+          "variaciones": ["Pies juntos", "Altura hombros", "En 'V'"],
+          "imagenes": ["assets/fotosRutinas/7.png","assets/fotosRutinas/8.png","assets/fotosRutinas/9.png"]
+        },
+        {
+          "nombre": "Abducción en máquina",
+          "series_repeticiones": "3x12",
+          "imagenes": ["assets/fotosRutinas/10.png"]
+        },
+        {
+          "nombre": "Sentadilla en la pared",
+          "series_repeticiones": "3x30 seg",
+          "imagenes": ["assets/fotosRutinas/11.jpg"]
+        },
+        {
+          "nombre": "Sentadilla BELT + Sumo con mancuerna",
+          "series_repeticiones": "3x6",
+          "variaciones": ["BELT", "Sumo con mancuerna + liga"],
+          "imagenes": ["assets/fotosRutinas/12.png","assets/fotosRutinas/13.png"]
+        },
+        {
+          "nombre": "Estiramientos (Yoga)",
+          "variaciones": ["Paloma real con una pierna", "Rueda"],
+          "imagenes": ["assets/fotosRutinas/14.png"]
+        }
+      ],
+      "miercoles": [
+        {
+          "nombre": "Prensa 45° con liga",
+          "series_repeticiones": "3x6",
+          "variaciones": ["En 'V'", "Rectos", "Juntos"],
+          "imagenes": ["assets/fotosRutinas/15.png","assets/fotosRutinas/16.png","assets/fotosRutinas/17.png"]
+        },
+        {
+          "nombre": "Tijeras en Smith con liga",
+          "series_repeticiones": "3x6",
+          "imagenes": ["assets/fotosRutinas/18.png"]
+        },
+        {
+          "nombre": "Sentadillas en Smith con liga",
+          "series_repeticiones": "3x6",
+          "variaciones": ["En 'V'", "Rectos", "Juntos"],
+          "imagenes": ["assets/fotosRutinas/19.png","assets/fotosRutinas/20.png"]
+    
+        },
+        {
+          "nombre": "Patada de glúteo en polea con liga",
+          "series_repeticiones": "3x6",
+          "variaciones": ["Recta atrás", "Inclinación", "Circular"],
+          "imagenes": ["assets/fotosRutinas/21.png"]
+    
+        },
+        {
+          "nombre": "Cuádriceps en máquina con liga",
+          "series_repeticiones": "3x6",
+          "variaciones": ["Juntos", "Rectos", "En 'V'"],
+          "imagenes": ["assets/fotosRutinas/22.png"]
+        },
+        {
+          "nombre": "Prensa 45° con liga (extra)",
+          "series_repeticiones": "3x5",
+          "variaciones": ["Juntos", "Rectos", "En 'V'"],
+          "imagenes": ["assets/fotosRutinas/23.jpg"]
+        },
+        {
+          "nombre": "Pantorrillas",
+          "series_repeticiones": "3x15-20",
+          "ejercicios": ["Elevación de talones"]
+        },
+        {
+          "nombre": "Estiramiento",
+          "ejercicios": ["Estiramiento de pecho en pared"],
+          "imagenes": ["assets/fotosRutinas/24.png"]
+        }
+      ]
+ 
+    },
+    "tren_superior": {
+      "martes y sabados": [
+        {
+          "nombre": "Tríceps en polea",
+          "series_repeticiones": "3x6",
+          "variaciones": ["Cerrado (barra recta)", "Abierto", "En V"],
+          "imagenes": ["assets/fotosRutinas/25.png","assets/fotosRutinas/26.png"]
+        },
+        {
+          "nombre": "Tríceps en banco predicador",
+          "series_repeticiones": "3x6",
+          "variaciones": ["Cerrado", "Abierto", "En V"],
+          "imagenes": ["assets/fotosRutinas/27.png","assets/fotosRutinas/28.png","assets/fotosRutinas/29.png"]
+        },
+        {
+          "nombre": "Espalda",
+          "series_repeticiones": "3x8-10",
+          "ejercicios": ["Jalón neutral", "Remo horizontal", "Pull-up asistido", "Remo barra T", "Remo mancuerna"],
+          "imagenes": ["assets/fotosRutinas/30.png","assets/fotosRutinas/31.png","assets/fotosRutinas/32.png","assets/fotosRutinas/33.png","assets/fotosRutinas/34.png"]
+        },
+        {
+          "nombre": "Press de banca",
+          "series_repeticiones": "3x8",
+          "imagenes": ["assets/fotosRutinas/35.png"]
+        }
+      ],
+      "jueves": [
+        {
+          "nombre": "Dominadas en barra",
+          "series_repeticiones": "3x5",
+          "variaciones": ["Agarre supino"],
+          "imagenes": ["assets/fotosRutinas/36.png"]
+        },
+        {
+          "nombre": "Trepado de cuerda",
+          "series_repeticiones": "1",
+          "imagenes": ["assets/fotosRutinas/37.png"]
+        },
+        {
+          "nombre": "Polea al pecho con agarre V",
+          "series_repeticiones": "3x15",
+          "imagenes": ["assets/fotosRutinas/38.png"]
+
+        },
+        {
+          "nombre": "Remo en Smith",
+          "series_repeticiones": "3x15",
+          "imagenes": ["assets/fotosRutinas/39.png"]
+        }
+      ]
+      
+    }
+  }
+  
